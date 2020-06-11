@@ -1,0 +1,15 @@
+// Whenever you use a pointer to access stuff inside a class, you need to use the arrow member selection operator
+// Composition is the idea that whenever you build a class that has members(variables); a class can also have objects 
+// of another class as its member  
+// Composition is basically using objects of other classes inside your class
+// Objects are how you get access to stuff stored in a class
+// Making class variables public is generally not good programming practice
+// Usually u'd wanna make class variables private and like java define some sort of 
+// setter and getter methods for them. They are public and so functions can be accessed inside of the main function
+// Constructors are such that u dont have to sort of use the dot notation in order to access the function
+// They are used to give variables an initial value
+// Whenever u create an object from a class, the objext has its own set of values
+// Some objects you create, you might not want them to be modified therefore the const keyword is used
+// Whenever you have a constant object, you cant call regular functions with them, you can only call functions that are themselves functions
+// So constant objects need constant functions
+// Whenever you create a constant function, you need to make sure that its constant both in the prototype in the header file and in the definition(C++ source file)

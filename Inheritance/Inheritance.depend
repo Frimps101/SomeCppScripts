@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587294234 source:c:\users\frimpomaa\c++scripts\inheritance\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1587297989 c:\users\frimpomaa\c++scripts\inheritance\mother.h
+
+1587298371 c:\users\frimpomaa\c++scripts\inheritance\daughter.h
+
+1587298203 source:c:\users\frimpomaa\c++scripts\inheritance\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1587298203 source:c:\users\frimpomaa\c++scripts\inheritance\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

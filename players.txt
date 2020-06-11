@@ -1,0 +1,4 @@
+1 maame 100
+2 nana 200
+3 lawlaw 300
+4 abena 400

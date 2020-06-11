@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+enum week{Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday};
+
+int main(void){
+	
+	week day;
+	
+	day = Friday;
+	
+	cout<<"Day: "<<day + 1;
+	
+	
+	return 0;
+}

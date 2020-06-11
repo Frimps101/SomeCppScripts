@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586745985 source:c:\users\frimpomaa\c++scripts\compostion\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1586745985 c:\users\frimpomaa\c++scripts\compostion\birthday.h
+
+1586746003 source:c:\users\frimpomaa\c++scripts\compostion\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1586745985 c:\users\frimpomaa\c++scripts\compostion\people.h
+	<string>
+	"Birthday.h"
+

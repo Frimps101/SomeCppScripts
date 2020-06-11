@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586663996 source:c:\users\frimpomaa\c++scripts\bucky_birthday\main.cpp
+	<iostream>
+	"Birthday_Composition.h"
+
+1586664311 c:\users\frimpomaa\c++scripts\bucky_birthday\birthday_composition.h
+
+1586664328 source:c:\users\frimpomaa\c++scripts\bucky_birthday\birthday_composition.cpp
+	"Birthday_Composition.h"
+	<iostream>
+

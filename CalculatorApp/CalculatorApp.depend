@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586661032 source:c:\users\frimpomaa\c++scripts\calculatorapp\main.cpp
+	<iostream>
+	"Calculator.h"
+
+1586660216 c:\users\frimpomaa\c++scripts\calculatorapp\calculator.h
+
